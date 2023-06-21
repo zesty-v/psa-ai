@@ -5,4 +5,8 @@ print("Hello you!")
 
 print(os.getenv())
 
-must show capabilities!    
+must show capabilities! 
+
+Thanks for the garbage!
+
+   
